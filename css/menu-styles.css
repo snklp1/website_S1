@@ -1,0 +1,259 @@
+body
+{
+  margin: 0;
+  font-size: 100%;
+  text-align: center;
+  /* works only for elements which do not have a width set*/
+  font-size: 1.4em;
+  font-family: 'Chilanka', cursive;
+  background-color: #d6efc7;
+}
+
+h1
+{
+  font-size: 2em;
+  font-family: 'Hachi Maru Pop', cursive;
+  color: #11698e;
+  margin-top: 0;
+}
+
+h2 {
+  margin: 0 auto 0;
+  font-size: 2em;
+  font-family: 'Hachi Maru Pop', cursive;
+  color: #11698e;
+}
+
+
+
+.top-head
+{
+  height: 120px;
+  background-color: #74c7b8;
+
+}
+
+.end-portal
+{
+  width: 30%;
+  margin: auto;
+}
+
+.fb-topimage
+{
+  margin-top: 50px;
+  width: 30%;
+}
+
+#mainhead
+{
+
+}
+
+p
+{
+  width: 70%;
+  padding-top: 40px;
+  margin: auto;
+  font-size: 2em;
+}
+
+.stgimg
+{
+  margin-top: 130px;
+  width: 40%;
+}
+
+
+
+a
+{
+  text-decoration: none;
+}
+
+a:link {
+  color: #9d0191;
+  background-color: none;
+  text-decoration: none;
+}
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+/* fav books section*/
+
+.booksimage
+{
+  float: none;
+  width: 15%;
+  margin: auto;
+}
+
+#book1
+{
+  text-align: left;
+  margin: auto;
+}
+
+#topimageofmenu
+{
+  margin-top: 30px;
+  width: 50%;
+}
+
+.book-names
+{
+  margin-bottom: 1px;
+}
+
+.endtable
+{
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+td {
+  text-align: center;
+  vertical-align: middle;
+  font-size: 2em;
+  padding: none;
+
+}
+
+.timelineheadimage
+{
+  width: 30%;
+}
+
+
+
+
+/* crossroad only commands*/
+
+.cr-top
+{
+  background-color: #a3d2ca;
+}
+
+.marqimg
+{
+  width: 30%;
+  margin: auto;
+  display: block;
+  position: relative;
+
+}
+
+
+#mcloud1
+{
+
+}
+
+
+#mcloud2
+{
+
+}
+
+#mcloud3
+{
+
+}
+
+#crossroads-heading
+{
+  font-size: 2.5em;
+  font-weight: 600;
+}
+
+#ribbon-crossroad
+{
+  background-color: #74c7b8;
+  height: 70px;
+  border-bottom-style: double;
+  border-top-style: double;
+}
+
+
+
+
+
+
+
+.bottom-container
+{
+  background-color: #74c7b8/*#bce6eb*/;
+}
+.contact-images
+{
+  width: 5%;
+  margin: auto 10px auto 20px;
+
+}
+.copyr
+{
+  font-style: arial;
+  color: #ffffff;
+  font-size: 0.9em;
+}
+
+
+
+/*Timeline*/
+
+.timeline-heading
+{
+  font-size: 2.1em;
+  font-family: 'Chilanka', cursive;
+  margin-bottom: 0;
+}
+
+.timeline-images
+{
+  width=30%;
+}
+
+.song-img
+{
+  width: 30%;
+}
+
+.anime-heading
+{
+  font-size: 2.1em;
+  font-family: 'Chilanka', cursive;
+  margin-bottom: 0;
+}
+
+.anime-image
+{
+  width: 40%;
+}
+
+#eblogo
+{
+  width: 49%;
+}
+
+/*#fma-image
+{
+  width: 10%;
+}*/
+
+.anime-websites
+{
+  width: 29%;
+}
